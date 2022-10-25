@@ -5,12 +5,10 @@ http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/pervyj-hd/video.m3u8
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_PERM/variant.m3u8
 #EXTINF:-1,Россия 1 HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMiAxMTo0NDo1MyBBTSZoYXNoX3ZhbHVlPUpTaHVOUTdSUlRTQkY1c2tnRldLa1E9PSZ2YWxpZG1pbnV0ZXM9MjU%3d
-#EXTINF:-1,Россия 1 HD (Резерв 1)
-http://1ss45677.tvclub.xyz/iptv/GDVXAUFZA62UQK/203/index.m3u
 #EXTINF:-1,Россия 1 Пермь
 https://vgtrkregion.cdnvideo.ru/vgtrk/perm/russia1sd/playlist_sdhigh.m3u8
 #EXTINF:-1,НТВ HD
-http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/ntv-hd/video.m3u8
+http://212.193.178.61:81/udp/239.195.6.21:1234
 #EXTINF:-1,НТВ Пермь
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_PERM/variant.m3u8
 #EXTINF:-1,Россия 24 Пермь
@@ -45,6 +43,12 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.
 http://77.72.22.42:8080/9136/index.m3u8
 #EXTINF:-1,Дом Кино (Резерв 1)
 http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/dom-kino/video.m3u8
+#EXTINF:-1,Дом Кино (Резерв 2)
+http://178.163.80.204:81/udp/234.0.0.219:2000
+#EXTINF:-1,Дом Кино (Резерв 3)
+http://212.193.178.61:81/udp/239.195.3.41:1234
+#EXTINF:-1,Дом Кино (Резерв 4)
+http://178.49.164.156:81/udp/239.1.4.8:1234
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
 #EXTINF:-1,Че (+2)
