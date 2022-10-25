@@ -104,7 +104,7 @@ http://dmi3y-tv.ru/hls/CH_MATCH_BOETS.m3u8
 #EXTINF:-1,Матч! ПРЕМЬЕР
 http://dmi3y-tv.ru/hls/CH_MATCH_PREMER.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD
-https://ru.iptv.monster/260/video.m3u8?token=18803E8FE0DA7F9
+http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/match-futbol1-hd/video.m3u8
 #EXTINF:-1,Матч! Футбол 2 SD
 http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 #EXTINF:-1,Матч! Футбол 3 SD
