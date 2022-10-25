@@ -1,0 +1,112 @@
+#EXTM3U
+#EXTINF:-1,Первый Канал HD
+http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/pervyj-hd/video.m3u8
+#EXTINF:-1,Первый Канал Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_PERM/variant.m3u8
+#EXTINF:-1,Россия 1 HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMiAxMTo0NDo1MyBBTSZoYXNoX3ZhbHVlPUpTaHVOUTdSUlRTQkY1c2tnRldLa1E9PSZ2YWxpZG1pbnV0ZXM9MjU%3d
+#EXTINF:-1,Россия 1 HD (Резерв 1)
+http://1ss45677.tvclub.xyz/iptv/GDVXAUFZA62UQK/203/index.m3u
+#EXTINF:-1,Россия 1 Пермь
+https://vgtrkregion.cdnvideo.ru/vgtrk/perm/russia1sd/playlist_sdhigh.m3u8
+#EXTINF:-1,НТВ HD
+http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/ntv-hd/video.m3u8
+#EXTINF:-1,НТВ Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_PERM/variant.m3u8
+#EXTINF:-1,Россия 24 Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_PERM/variant.m3u8
+#EXTINF:-1,Карусель
+https://sc.id-tv.kz:443/Karusel_36_37.m3u8
+#EXTINF:-1,Рен ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+#EXTINF:-1,Рен ТВ Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_RTRS_PERM/variant.m3u8
+#EXTINF:-1,СТС HD
+http://dmi3y-tv.ru/hls/okko/CH_STSHD.m3u8
+#EXTINF:-1,СТС Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_URAL_PERM/variant.m3u8
+#EXTINF:-1,Домашний HD
+http://dmi3y-tv.ru/hls/okko/CH_DOMASHNIYHD.m3u8
+#EXTINF:-1,Домашний Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_RTRS_PERM/variant.m3u8
+#EXTINF:-1,Пятница HD
+http://dmi3y-tv.ru/hls/okko/CH_FRIDAYHD.m3u8
+#EXTINF:-1,Пятница Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_RTRS_PERM/variant.m3u8
+#EXTINF:-1,Мир HD
+http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1,Мир Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_MIR_RTRS_PERM/variant.m3u8
+#EXTINF:-1,ТНТ HD
+http://dmi3y-tv.ru/hls/okko/CH_TNTHD.m3u8
+#EXTINF:-1,ТНТ Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.m3u8
+#EXTINF:-1,Дом Кино
+http://77.72.22.42:8080/9136/index.m3u8
+#EXTINF:-1,Дом Кино (Резерв 1)
+http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/dom-kino/video.m3u8
+#EXTINF:-1,Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
+#EXTINF:-1,Че (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
+#EXTINF:-1,Суббота HD
+http://85.112.114.11:8088/udp/238.2.49.249:1234
+#EXTINF:-1,Суббота (+2)
+http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/playlist.m3u8
+#EXTINF:-1,СТС Love 
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/bw2000000/variant.m3u8
+#EXTINF:-1,СТС Love (+2)
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
+#EXTINF:-1,ViP PREMIERE HD
+http://dmi3y-tv.ru/hls/okko/CH_ViPPREMIEREHD.m3u8
+#EXTINF:-1,ViP MEGAHIT HD
+http://dmi3y-tv.ru/hls/okko/CH_ViPMEGAHITHD.m3u8
+#EXTINF:-1 ViP COMEDY HD
+http://dmi3y-tv.ru/hls/okko/CH_ViPCOMEDYHD.m3u8
+#EXTINF:-1,ViP SERIAL HD
+http://dmi3y-tv.ru/hls/okko/CH_ViPSERIALHD.m3u8
+#EXTINF:-1,TV1000 HD
+http://dmi3y-tv.ru/hls/okko/CH_TV1000HD.m3u8
+#EXTINF:-1,TV1000 ACTION HD
+http://dmi3y-tv.ru/hls/okko/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1,TV1000 РУССКОЕ КИНО HD
+http://dmi3y-tv.ru/hls/okko/CH_TV1000RUSSKOEKINOHD.m3u8
+#EXTINF:-1,AMEDIA I HD
+http://dmi3y-tv.ru/hls/okko/CH_AMEDIAIHD.m3u8
+#EXTINF:-1,AMEDIA II HD
+http://dmi3y-tv.ru/hls/okko/CH_AMEDIAIIHD.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHIT.m3u8
+#EXTINF:-1,AMEDIA HIT HD
+http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHITHD.m3u8
+#EXTINF:-1,AMEDIA PREMIUM HD
+http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
+#EXTINF:-1,BACKUSTV DARK HD
+http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
+#EXTINF:-1,BACKUSTV ORIGINAL HD
+http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
+#EXTINF:-1,START AIR
+http://dmi3y-tv.ru/hls/okko/CH_STARTAIR.m3u8
+#EXTINF:-1,START AIR HD
+http://dmi3y-tv.ru/hls/okko/CH_STARTAIRHD.m3u8
+#EXTINF:-1,START WORLD
+http://dmi3y-tv.ru/hls/okko/CH_STARTWORLD.m3u8
+#EXTINF:-1,START WORLD HD
+http://dmi3y-tv.ru/hls/okko/CH_STARTWORLDHD.m3u8
+#EXTINF:-1,Матч! СТРАНА
+http://bl.uma.media/live/291663/HLS/4614144_2/2/1/playlist.m3u8
+#EXTINF:-1,Матч! АРЕНА HD
+http://dmi3y-tv.ru/hls/CH_MATCH_ARENAHD.m3u8
+#EXTINF:-1,Матч! ИГРА
+http://dmi3y-tv.ru/hls/CH_MATCH_IGRA.m3u8
+#EXTINF:-1,Матч! БОЕЦ
+http://dmi3y-tv.ru/hls/CH_MATCH_BOETS.m3u8
+#EXTINF:-1,Матч! ПРЕМЬЕР
+http://dmi3y-tv.ru/hls/CH_MATCH_PREMER.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+https://ru.iptv.monster/260/video.m3u8?token=18803E8FE0DA7F9
+#EXTINF:-1,Матч! Футбол 2 SD
+http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+#EXTINF:-1,Матч! Футбол 3 SD
+http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
+
