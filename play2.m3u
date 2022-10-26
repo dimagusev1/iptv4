@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Первый Канал HD
-http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/pervyj-hd/video.m3u8
+http://s06.wsbof.com:8090/s/e9e9e234/pervyj-hd.m3u8
 #EXTINF:-1,Первый Канал Пермь
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_PERM/variant.m3u8
 #EXTINF:-1,Россия 1 HD
