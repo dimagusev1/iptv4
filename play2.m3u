@@ -8,7 +8,7 @@ http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8?wmsAuthSign=c2VydmVy
 #EXTINF:-1,Россия 1 Пермь
 https://vgtrkregion.cdnvideo.ru/vgtrk/perm/russia1sd/playlist_sdhigh.m3u8
 #EXTINF:-1,НТВ HD
-http://212.193.178.61:81/udp/239.195.6.21:1234
+http://s06.wsbof.com:8090/s/e9e9e234/ntv-hd.m3u8
 #EXTINF:-1,НТВ Пермь
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_PERM/variant.m3u8
 #EXTINF:-1,Россия 24 Пермь
@@ -42,13 +42,7 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.
 #EXTINF:-1,Дом Кино
 http://77.72.22.42:8080/9136/index.m3u8
 #EXTINF:-1,Дом Кино (Резерв 1)
-http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/dom-kino/video.m3u8
-#EXTINF:-1,Дом Кино (Резерв 2)
-http://178.163.80.204:81/udp/234.0.0.219:2000
-#EXTINF:-1,Дом Кино (Резерв 3)
-http://212.193.178.61:81/udp/239.195.3.41:1234
-#EXTINF:-1,Дом Кино (Резерв 4)
-http://178.49.164.156:81/udp/239.1.4.8:1234
+http://s06.wsbof.com:8090/s/e9e9e234/dom-kino.m3u8
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
 #EXTINF:-1,Че (+2)
@@ -107,10 +101,4 @@ http://dmi3y-tv.ru/hls/CH_MATCH_IGRA.m3u8
 http://dmi3y-tv.ru/hls/CH_MATCH_BOETS.m3u8
 #EXTINF:-1,Матч! ПРЕМЬЕР
 http://dmi3y-tv.ru/hls/CH_MATCH_PREMER.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD
-http://tchaikovsky.af-stream.com:1600/s/5i5klpzy/match-futbol1-hd/video.m3u8
-#EXTINF:-1,Матч! Футбол 2 SD
-http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
-#EXTINF:-1,Матч! Футбол 3 SD
-http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
 
