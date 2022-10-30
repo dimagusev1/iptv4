@@ -42,13 +42,15 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.
 #EXTINF:-1,Дом Кино
 http://77.72.22.42:8080/9136/index.m3u8
 #EXTINF:-1,Дом Кино (Резерв 1)
-http://s06.wsbof.com:8090/s/e9e9e234/dom-kino.m3u8
+http://srv-7-streaming.iptvin.site:8080/dom-kino/video.m3u8?token=893776d6f0a985f3e4cb4d0027765a1b7e3cdf30-1592166537-1667161473-1667118273
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
 #EXTINF:-1,Че (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
 #EXTINF:-1,Суббота HD
 http://85.112.114.11:8088/udp/238.2.49.249:1234
+#EXTINF:-1,Суббота HD (Резерв 1)
+http://srv-2-streaming.iptvin.site:8080/subbota_HD/video.m3u8?token=860e0c88ac9015b6088d97778c4190c9c9aa06a5-1592166537-1667161473-1667118273
 #EXTINF:-1,Суббота (+2)
 http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/playlist.m3u8
 #EXTINF:-1,СТС Love 
@@ -101,4 +103,9 @@ http://dmi3y-tv.ru/hls/CH_MATCH_IGRA.m3u8
 http://dmi3y-tv.ru/hls/CH_MATCH_BOETS.m3u8
 #EXTINF:-1,Матч! ПРЕМЬЕР
 http://dmi3y-tv.ru/hls/CH_MATCH_PREMER.m3u8
-
+#EXTINF:-1,Матч! Футбол 1 HD
+http://srv-7-streaming.iptvin.site:8080/football1hd/index.m3u8?token=6f048ac3e219bd3d8099a45ed5daf0b3a56b67f9-1592166537-1667161473-1667118273
+#EXTINF:-1,Матч! Футбол 2 HD
+http://srv-3-streaming.iptvin.site:8080/football_2_hd/video.m3u8?token=a7155518ddbe3e071e87d594086050389a8d391b-1592166537-1667161473-1667118273
+#EXTINF:-1,Матч! Футбол 3 HD
+http://srv-5-streaming.iptvin.site:34768/football3_hd/video.m3u8?token=d81867a312fdd818f17207fd33c0d3d0cb9848b7-1592166537-1667161473-1667118273
