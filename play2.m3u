@@ -58,7 +58,7 @@ http://50.7.120.164:8081/dom_prem/index.m3u8?wmsAuthSign=d92c4a2ef267233bbe49d39
 #EXTINF:-1,Че
 http://78.25.155.47:1309/channel/Che.ts
 #EXTINF:-1,Суббота (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2&tvin
 #EXTINF:-1,Суббота HD+
 https://tv24h/505/stream?access_token=60e7bd6049f70cfffe0dee01fff89569593128d5
 #EXTINF:-1,СТС Love (+2)
