@@ -57,8 +57,8 @@ https://s91412.cdn.ngenix.net/mdrm/CH_DOMKINOPREMIUMHD/manifest.mpd?token=BuMGM4
 http://50.7.120.164:8081/dom_prem/index.m3u8?wmsAuthSign=d92c4a2ef267233bbe49d392b2be918d-1676388874-681i69i91i881&rand=0.9202839143669315
 #EXTINF:-1,Че
 http://78.25.155.47:1309/channel/Che.ts
-#EXTINF:-1,Суббота (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1,Суббота (+2)hg
+TVSources &id='subbota hd_d0'
 #EXTINF:-1,Суббота HD+
 https://tv24h/505/stream?access_token=60e7bd6049f70cfffe0dee01fff89569593128d5
 #EXTINF:-1,СТС Love (+2)
