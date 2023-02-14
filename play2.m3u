@@ -42,17 +42,23 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.
 #EXTINF:-1,Дом Кино
 https://flu.ttk.mx/Dom_kino/index.m3u8?token=orh6o
 #EXTINF:-1,Дом Кино (Резерв 1)
-https://s25617.cdn.ngenix.net/mdrm/CH_DOMKINO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f1fae3f07ec0034e3c4bd54885dd7319}
-#EXTINF:-1,Дом Кино Премиум 
-http://138.201.67.145:8081/Dom_kino_premium_HD/index.m3u8
-#EXTINF:-1,Дом Кино Премиум  (Резерв 1)
-https://s25617.cdn.ngenix.net/mdrm/CH_DOMKINOPREMIUMHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0c8b44a4975aeb366b0013643cb61e2c}
+http://78.25.155.47:1309/channel/DOM_kino.ts
+#EXTINF:-1,Дом Кино (Резерв 2)
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?offset=1
+#EXTINF:-1,Дом Кино Премиум HD 
+https://s91412.cdn.ngenix.net/mdrm/CH_DOMKINO/manifest.mpd?token=GyZjFmYWUzZjA3ZWMwMDM0ZTNjNGJkNTQ4ODVkZDczMTk
+#EXTINF:-1,Дом Кино Премиум HD (Резерв 1)
+https://us2.justv.org:8080/hls/domkinopremium/chunks.m3u8?nimblesessionid=2730168&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIzIDEwOjM2OjQwIEFNJmhhc2hfdmFsdWU9SGtidHNqNHVxbkpsejFTQkFUZXJDZz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
+#EXTINF:-1,Дом Кино Премиум HD (Резерв 2)
+https://edge02.smart.az/o8/domkinopremium/q_2/playlist.m3u8
+#EXTINF:-1,Дом Кино Премиум HD (Резерв 3)
+https://s91412.cdn.ngenix.net/mdrm/CH_DOMKINOPREMIUMHD/manifest.mpd?token=BuMGM4YjQ0YTQ5NzVhZWIzNjZiMDAxMzY0M2NiNjFlMmM
+#EXTINF:-1,Дом Кино Премиум HD (Резерв 4)
+http://50.7.120.164:8081/dom_prem/index.m3u8?wmsAuthSign=d92c4a2ef267233bbe49d392b2be918d-1676388874-681i69i91i881&rand=0.9202839143669315
 #EXTINF:-1,Че
 http://78.25.155.47:1309/channel/Che.ts
-#EXTINF:-1,Че (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
 #EXTINF:-1,Суббота (+2)
-http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/playlist.m3u8
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
 #EXTINF:-1,СТС Love (+2)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1,ViP PREMIERE HD
@@ -78,7 +84,7 @@ http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHIT.m3u8
 #EXTINF:-1,AMEDIA HIT HD
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHITHD.m3u8
 #EXTINF:-1,AMEDIA PREMIUM HD
-http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
+https://nl01.spr24.net/258/mpegts?token=uUVbSpF8Wv26Ux
 #EXTINF:-1,BACKUSTV DARK HD
 http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
 #EXTINF:-1,BACKUSTV ORIGINAL HD
